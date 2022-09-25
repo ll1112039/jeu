@@ -1,5 +1,5 @@
 TP Starship 
-Groupe 1 : Redwane Engels, Quentin Connil, Marouane Belkhdir et Lies Lamri
+lyes Lamri avec groupe
 
 Etape 1
 Installer les fichiers nécessaires au projet : Dans le dossier tp-Starship executer la commande : "npm install"
